@@ -1,0 +1,5 @@
+D:\DEL\NewRepo\WepApp.Repository\obj\Debug\netcoreapp3.1\WepApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEL\NewRepo\WepApp.Repository\obj\Debug\netcoreapp3.1\WepApp.Repository.AssemblyInfoInputs.cache
+D:\DEL\NewRepo\WepApp.Repository\obj\Debug\netcoreapp3.1\WepApp.Repository.AssemblyInfo.cs
+D:\DEL\NewRepo\WepApp.Repository\obj\Debug\netcoreapp3.1\WepApp.Repository.csproj.CoreCompileInputs.cache
+D:\DEL\NewRepo\WepApp.Repository\obj\Debug\netcoreapp3.1\WepApp.Repository.csproj.AssemblyReference.cache
